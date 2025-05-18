@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="your-banner-link-here" alt="Banner" />
-</p>
-
 # Hey there! 👋  
 I'm **Yadanar Lin**, but everyone calls me **Rita**! 😊  
 
