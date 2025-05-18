@@ -3,17 +3,22 @@ I'm **Yadanar Lin**, but everyone calls me **Rita**! 😊
 
 ## About Me
 
-💻 Computer Science student at **San José State University** |
-🎨 Digital Artist (as my creative side) |
+💻 Computer Science student at **San José State University** <br>
+🎨 Digital Artist (as my creative side) <br>
 🌱 Passionate about building software that solves real-world problems
 
 ## Tech Stack & Tools
 
 **Languages:**  
-Java | C++ | HTML/CSS
+Java <br> 
+C++ <br> 
+HTML/CSS
 
 **Frameworks & Tools:**  
-JavaFX | Git & GitHub | IntelliJ IDEA | VS Code
+JavaFX <br> 
+Git & GitHub <br> 
+IntelliJ IDEA <br>
+VS Code
 
 ## Let’s Connect!
 
