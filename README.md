@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="your-banner-link-here" alt="Banner" />
+</p>
+
 # Hey there! 👋  
 I'm **Yadanar Lin**, but everyone calls me **Rita**! 😊  
 
@@ -10,15 +14,15 @@ I'm **Yadanar Lin**, but everyone calls me **Rita**! 😊
 ## Tech Stack & Tools
 
 **Languages:**  
-Java <br> 
-C++ <br> 
-HTML/CSS
+- Java <br> 
+- C++ <br> 
+- HTML/CSS
 
 **Frameworks & Tools:**  
-JavaFX <br> 
-Git & GitHub <br> 
-IntelliJ IDEA <br>
-VS Code
+- JavaFX <br> 
+- Git & GitHub <br> 
+- IntelliJ IDEA <br>
+- VS Code
 
 ## Let’s Connect!
 
